@@ -29,7 +29,7 @@
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rundex0&theme=tokyonight&hide=ruby) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rundex0&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rundex0&theme=default&hide=ruby) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rundex0&show_icons=true&theme=default)
 
 
 
