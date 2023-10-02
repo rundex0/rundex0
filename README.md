@@ -2,11 +2,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rundex0.rundex0)
 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning Javascript!
 - 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/ 
 <!--- - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
+
+- 🔭 I’m currently working on ...
 - 💬 Ask me about ... ---> 
 
 
