@@ -31,7 +31,7 @@
 <img src="./icons8-java.gif" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="./html5-logo-31813.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="./icons8-react-100.png" alt="VS Code" height="50" style="vertical-align:top; margin:4px">
-
+<img src="./icons8-css-color-96.png" alt="VS Code" height="50" style="vertical-align:top; margin:4px">
 
 
 
