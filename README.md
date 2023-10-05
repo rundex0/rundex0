@@ -16,7 +16,7 @@
 
 
 <p align="center">
- <a href="https://github.com/rundex0/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/rundex0/" target="_blank" rel="noopener noreferrer"> <img src="./github-mark.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/nathan-carney9/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:nathan.carney99@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
