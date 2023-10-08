@@ -18,7 +18,7 @@
 <p align="center">
  <a href="https://github.com/rundex0/" target="_blank" rel="noopener noreferrer"> <img src="./icons8-github.gif" alt="Github" height="40" style="vertical-align:top; margin:4px;"> </a>    
 <a href="https://www.linkedin.com/in/nathan-carney9/" target="_blank" rel="noopener noreferrer"> <img src="./icons8-linkedin-96.png" alt="LinkedIn" height="50" style="vertical-align:top; margin: 4px;"></a>             
- <a href="mailto:nathan.carney99@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px;"></a>
+ <a href="mailto:nathan.carney99@gmail.com"> <img src="icons8-gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px;"></a>
 </p>
 
 
