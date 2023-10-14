@@ -4,11 +4,12 @@
 
 
 - 🌱 I’m currently learning Javascript!
-- 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/ 
+- 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/
+- 🔭 I’m currently working on Personal Projects! 
 <!--- - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 
-- 🔭 I’m currently working on ...
+
 - 💬 Ask me about ... ---> 
 
 
