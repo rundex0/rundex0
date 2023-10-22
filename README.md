@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning Javascript!
 - 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/
-- 🔭 I’m currently working on a URL Shortener! 
+- 🔭 I’m currently working on a URL Shortener!
+- 💬 Ask me about my next race! 🏃🏻
+
+  
 <!--- - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on a 
-
-
-- 💬 Ask me about ... ---> 
+ ---> 
 
 
 ## ✉️ Find me on:
