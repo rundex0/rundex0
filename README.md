@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Javascript!
+- 🌱 I’m currently learning Javascript + Python!
 - 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/
 - 🔭 I’m currently working on a URL Shortener!
 - 💬 Ask me about my next race! 🏃🏻
