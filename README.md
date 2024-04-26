@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Javascript and Python!
 - 📫 How to reach me: https://www.linkedin.com/in/nathan-carney9/
-- 🔭 I’m currently working on a URL Shortener!
+- 🔭 I’m currently working on a Javascript Projects!
 - 💬 Ask me about my next race! 🏃🏻
 
   
