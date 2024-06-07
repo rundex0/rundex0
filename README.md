@@ -39,9 +39,3 @@
 
   
 </p>
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rundex0&show_icons=true&theme=default)
-
-
-
-
